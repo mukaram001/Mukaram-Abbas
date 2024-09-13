@@ -21,8 +21,8 @@ I am a dedicated and passionate React JS developer with extensive experience in 
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~mukaram-abbas-475ma)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukaram-abbas-475ma/)
+[![Upwork](https://img.shields.io/badge/-Upwork-green?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mukarama)
 
 ---
 
