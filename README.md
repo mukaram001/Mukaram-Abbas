@@ -1,4 +1,4 @@
-# Mukaram_Codes
+
 <p align="center">
   <img src="YOUR_PROFILE_IMAGE_URL" alt="Mukaram Abbas" width="200px" height="200px"/>
 </p>
@@ -14,7 +14,7 @@ I am a dedicated and passionate React JS developer with extensive experience in 
 - 🌱 **Currently learning**: Advanced TypeScript and performance optimization techniques.
 - 🔭 **Working on**: Building a robust social dashboard and expanding into backend services with Node.js.
 - 💬 **Ask me about**: JavaScript, React, Node.js, Express, and other web development tools.
-- 📫 **How to reach me**: [mukaram.abbas.475@gmail.com](mailto:mukaram.abbas.475@gmail.com)
+- 📫 **How to reach me**: [mukaramabbas0415@gmail.com](mailto:mukaramabbas0415@gmail.com)
 - ⚡ **Fun fact**: I enjoy exploring new technologies and continuously improving my coding skills.
 
 ---
@@ -46,19 +46,11 @@ I am a dedicated and passionate React JS developer with extensive experience in 
 
 ---
 
-### 🔥 Popular Repositories
-
-- [**personal**](https://github.com/mukaram001/personal): Portfolio website showcasing my work and skills.
-- [**social_dashboard**](https://github.com/mukaram001/social_dashboard): A full-stack social media dashboard built with modern web technologies.
-- [**crud**](https://github.com/mukaram001/crud): A CRUD application with REST API built using Node.js and Express.
-
----
-
 ### 📫 Contact Me
 
 For collaborations, freelance projects, or any questions, feel free to contact me via:
-- 📧 Email: [mukaram.abbas.475@gmail.com](mailto:mukaram.abbas.475@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/~mukaram-abbas-475ma)
+- 📧 Email: [mukaramabbas0415@gmail.com](mailto:mukaramabbas0415@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukaram-abbas-475ma/)
+- 🌐 [Upwork Profile](https://www.upwork.com/freelancers/mukarama)
 
 Let's connect and build something amazing together!
