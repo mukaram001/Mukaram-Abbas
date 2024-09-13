@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" alt="Mukaram Abbas" width="600px" height="400px"/>
 </p>
-
 # Hi 👋, I'm Mukaram Abbas
 
 💻 **React JS | Node | Express | MongoDB | NEXT JS | NEST JS | React Native | Prisma | Sequelize | Type ORM**
