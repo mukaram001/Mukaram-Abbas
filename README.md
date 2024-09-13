@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffull-stack developer&psig=AOvVaw0bdezxVQ4OnEPYzjEwRBB8&ust=1726337448624000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIip6qXCwIgDFQAAAAAdAAAAABAJ" alt="Mukaram Abbas" width="200px" height="200px"/>
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-illustration-download-in-svg-png-gif-file-formats--binary-coding-design-digital-modern-technology-pack-development-illustrations-1651585.png" alt="Mukaram Abbas" width="200px" height="200px"/>
 </p>
 
 # Hi 👋, I'm Mukaram Abbas
