@@ -43,16 +43,10 @@ I am a dedicated and passionate React JS developer with extensive experience in 
 
 ![Mukaram's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukaram001&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukaram001&layout=compact&theme=radical)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-10%25-blue)
-![HTML](https://img.shields.io/badge/HTML-5%25-orange)
-![CSS](https://img.shields.io/badge/CSS-5%25-purple)
 
-#### Progress Bar Representation:
-- **JavaScript**: ![80%](https://progress-bar.dev/80)
-- **TypeScript**: ![10%](https://progress-bar.dev/10)
-- **HTML**: ![5%](https://progress-bar.dev/5)
-- **CSS**: ![5%](https://progress-bar.dev/5)
+![Top Languages](https://your-custom-api.vercel.app/api/top-langs/?username=mukaram001&layout=compact&theme=radical)
+
+
 ---
 
 ### 📫 Contact Me
